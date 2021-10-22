@@ -1,10 +1,21 @@
 
+# Alzheimer’s disease
+Alzheimer’s disease (AD) is an irreversible neurodegenerative disease that results in a loss of mental function caused by the deterioration of brain tissue. It is the most common cause of dementia among people over the age of 65, affecting an estimated 5.5 million Americans, yet no prevention methods or cures have been discovered.
 
 
+## 1.	Stages of Alzheimer’s disease
+1.	CN - Cognitive Normal
+2.	MCI - Cild Cognitive Impairment
+3.	AD - Alzheimer’s disease
 
-![Alt text](imgs/alz1.png | width=100)
 
-![](imgs/alz1.png | width=100)
+## 2.	Region of Interest
+1.	Ventricular
+2.	Temporal lobe
+3.	Hippocampal
+
+
+![Alt text](imgs/alz1.png )
 
 
 
