@@ -1,8 +1,10 @@
 
 
-![Picture1](https://user-images.githubusercontent.com/58822992/121517648-0efe5f00-ca09-11eb-8359-db3bde3cd69f.jpg)
+
 
 ![Alt text](imgs/alz1.png)
+
+
 
 
 
@@ -58,4 +60,15 @@
 
     ```console
     CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/adni
+    
+    
     ```
+    
+- ADNI Results
+
+    ```console
+    CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/adni
+    ```
+   
+    
+    ![Alt text](imgs/abtoan.png)
