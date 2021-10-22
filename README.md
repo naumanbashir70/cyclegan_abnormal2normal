@@ -4,6 +4,8 @@
 
 ![Alt text](imgs/alz1.png | width=100)
 
+![](imgs/alz1.png | width=100)
+
 
 
 
