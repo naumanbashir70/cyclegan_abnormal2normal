@@ -2,7 +2,7 @@
 
 
 
-![Alt text](imgs/alz1.png)
+![Alt text](imgs/alz1.png | width=100)
 
 
 
