@@ -65,10 +65,5 @@
     ```
     
 - ADNI Results
-
-    ```console
-    CUDA_VISIBLE_DEVICES=0 python test.py --experiment_dir ./output/adni
-    ```
-   
     
     ![Alt text](imgs/abtoan.png)
